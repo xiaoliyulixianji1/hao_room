@@ -33,4 +33,4 @@ st.subheader('钟浩')
 st.image('resource/zh.jpg',width=400)
 
 st.subheader('吴彦祖')
-st.image('resource/hhh.jpg',width=400)
+st.image('resource/hhh.jpg',width=800)
